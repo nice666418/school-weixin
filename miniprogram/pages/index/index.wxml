@@ -1,0 +1,33 @@
+<view class="all">
+  <swiper autoplay="true" interval="3000">
+    <!-- <swiper-item>
+      <image src="cloud://dbcloud-0g1vrlmq7a736a4e.6462-dbcloud-0g1vrlmq7a736a4e-1317514412/hegonda1.jpg"></image>
+    </swiper-item> -->
+    <swiper-item>
+      <image src="../../images/hegonda2.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="../../images/hegonda3.jpg"></image>
+    </swiper-item>
+  </swiper>
+  <view class="line">
+    <view class="box" bindtap="biaobai">
+      <image src="../../images/borrow.png"></image>
+      <view>设备借用</view>
+    </view>
+    <view class="box" bindtap="lost">
+      <image src="../../images/lost.png"></image>
+      <view>失物招领</view>
+    </view>
+  </view>
+  <view class="line">
+    <view class="box" bindtap="work">
+      <image src="../../images/work.png"></image>
+      <view>会议室借用</view>
+    </view>
+    <view class="box" bindtap="xianzhi">
+      <image src="../../images/xianzhi.png"></image>
+      <view>设备报修</view>
+    </view>
+  </view>
+</view>

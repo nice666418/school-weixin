@@ -1,0 +1,22 @@
+/* pages/notice/notice.wxss */
+.number{
+  margin-top: 2px;
+  height: 60px;
+  margin-left: 5px;
+  width: 30px;
+  text-align: center;
+}
+.total{
+  height: 70px;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+.home-header-line {
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color:ivory;
+  width: 2px;
+  height: 70px;
+}

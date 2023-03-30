@@ -1,0 +1,133 @@
+<!--pages/notice/notice.wxml-->
+<view>
+  <view class="total" style="flex-direction:row;" >
+    <view class = "number">
+    <text>
+    3.27
+    </text>
+    </view>
+    <view class="home-header-line"></view>
+    <view class = "text">
+    <text>
+      我校荣获安徽省“节水型高校”荣誉称号
+    </text>
+    </view>
+  </view>
+  <view class="total" style="flex-direction:row;" >
+    <view class = "number">
+    <text>
+    3.25
+    </text>
+    </view>
+    <view class="home-header-line"></view>
+    <view class = "text">
+    <text>
+      全国高等学校建筑学专业教育评估专家组莅临我校评估考查
+    </text>
+    </view>
+  </view>
+  <view class="total" style="flex-direction:row;" >
+    <view class = "number">
+    <text>
+    3.24
+    </text>
+    </view>
+    <view class="home-header-line"></view>
+    <view class = "text">
+    <text>
+      全校党员干部学习贯彻党的二十大精神集中轮训班开班
+    </text>
+    </view>
+  </view>
+  <view class="total" style="flex-direction:row;" >
+    <view class = "number">
+    <text>
+    3.24
+    </text>
+    </view>
+    <view class="home-header-line"></view>
+    <view class = "text">
+    <text>
+      学校部署2023年全面从严治党工作
+    </text>
+    </view>
+  </view>
+  <view class="total" style="flex-direction:row;" >
+    <view class = "number">
+    <text>
+    3.24
+    </text>
+    </view>
+    <view class="home-header-line"></view>
+    <view class = "text">
+    <text>
+      管理学院研究团队在智能制造运作优化领域取得新进展
+    </text>
+    </view>
+  </view>
+  <view class="total" style="flex-direction:row;" >
+    <view class = "number">
+    <text>
+    3.24
+    </text>
+    </view>
+    <view class="home-header-line"></view>
+    <view class = "text">
+    <text>
+      学校获2022年“挑战杯”中国大学生创业计划竞赛金奖
+    </text>
+    </view>
+  </view>
+  <view class="total" style="flex-direction:row;" >
+    <view class = "number">
+    <text>
+    3.24
+    </text>
+    </view>
+    <view class="home-header-line"></view>
+    <view class = "text">
+    <text>
+      我校在太阳能热发电研究领域取得新进展
+    </text>
+    </view>
+  </view>
+  <view class="total" style="flex-direction:row;" >
+    <view class = "number">
+    <text>
+    3.22
+    </text>
+    </view>
+    <view class="home-header-line"></view>
+    <view class = "text">
+    <text>
+      学校举行赛特新材捐赠仪式暨颁奖典礼
+    </text>
+    </view>
+  </view>
+  <view class="total" style="flex-direction:row;" >
+    <view class = "number">
+    <text>
+    3.22
+    </text>
+    </view>
+    <view class="home-header-line"></view>
+    <view class = "text">
+    <text>
+      我校在《2022全国普通高校大学生竞赛分析报告》两项榜单中挺进十强
+    </text>
+    </view>
+  </view>
+  <view class="total" style="flex-direction:row;" >
+    <view class = "number">
+    <text>
+    3.22
+    </text>
+    </view>
+    <view class="home-header-line"></view>
+    <view class = "text">
+    <text>
+      学校举行赛特新材捐赠仪式暨颁奖典礼
+    </text>
+    </view>
+  </view>
+</view>
